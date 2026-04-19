@@ -2,6 +2,8 @@
 
 Official website for [carabine.studio](https://carabine.studio)
 
+> See our UI library at [ui.carabine.studio](https://ui.carabine.studio)
+
 ## Tech Stack
 
 - **Framework:** [Next.js 16.2](https://nextjs.org/) with App Router
